@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/api/time", "dest": "/api/time.js" }
+    { "src": "/api/time", "dest": "/api/time" }
   ]
 }
